@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+matplotlib==3.11.1
+python-pptx==1.0.2
+lxml==6.1.1
+latex2mathml==3.81.1
+pillow

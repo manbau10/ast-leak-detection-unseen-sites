@@ -1,0 +1,20 @@
+# never commit data, outputs or the real site map
+data/
+derived/
+private/
+tables/
+figures/
+supplementary/
+cache/
+models/
+code/sites.json
+*.wav
+*.npz
+*.npy
+*.pkl
+*.pt
+*.xlsx
+*.pptx
+*.docx
+*.png
+__pycache__/

@@ -1,0 +1,11 @@
+numpy==1.26.4
+scipy==1.15.3
+pandas==2.3.3
+scikit-learn==1.7.2
+soundfile==0.14.0
+librosa==0.11.0
+openpyxl
+threadpoolctl
+torch==2.6.0
+torchaudio==2.6.0
+transformers==5.2.0
